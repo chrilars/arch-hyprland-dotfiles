@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+
+# But not these files
+!README.md
+!.gitignore
+
+# and not these folders
+!/hypr
+!/dunst
+!/wofi
+!/waybar
+!/kitty
+!/nvim
